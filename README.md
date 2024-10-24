@@ -2,7 +2,9 @@
 
 <img src="https://avatars.githubusercontent.com/u/32122958?s=400&u=57cab498651c41710f07068cb94ca0a5509cc0b2&v=4" alt="Profile Image" width="200" height="200"/>
 
+
 I’m a passionate software engineer, cloud specialist, and data enthusiast with a strong focus on creating solutions that address real-world problems. I hold a **Master's in Computer Science** from the **University of Camerino**, Italy, where I specialized in machine learning applications in healthcare, and a **Bachelor's in Computer Science** from **Siddharth Institute of Engineering & Technology**, India, where I explored data mining techniques in cybersecurity. With experience in cloud infrastructure, machine learning, and data analytics, I have successfully delivered scalable and efficient projects in both academic and professional settings. 😊
+
 
 ---
 
